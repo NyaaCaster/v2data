@@ -18,8 +18,8 @@
 # export DAT_PATH='/usr/local/lib/v2ray'
 DAT_PATH=${DAT_PATH:-/usr/local/share/v2ray}
 
-DOWNLOAD_LINK_GEOIP="https://nyaacaster.github.io/NyaaCaster/geoip.dat"
-DOWNLOAD_LINK_GEOSITE="https://nyaacaster.github.io/NyaaCaster/dlc.dat"
+DOWNLOAD_LINK_GEOIP="https://nyaacaster.github.io/v2data/geoip.dat"
+DOWNLOAD_LINK_GEOSITE="https://nyaacaster.github.io/v2data/dlc.dat"
 file_ip='geoip.dat'
 file_dlc='dlc.dat'
 file_site='geosite.dat'
